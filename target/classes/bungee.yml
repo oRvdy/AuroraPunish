@@ -1,0 +1,6 @@
+name: AuroraPunish
+version: 1.0
+author: Ryverday
+main: com.auroramc.punish.Main
+depends:
+  - AuroraCommon
